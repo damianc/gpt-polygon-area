@@ -1,5 +1,6 @@
 # gpt-polygon-area
-GPT-generated script to calculate a polygon's area.
+
+GPT-generated script to calculates the area of an irregular polygon with slanted walls and holes, using triangulation.
 
 ## Example
 
